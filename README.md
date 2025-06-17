@@ -51,9 +51,6 @@ pnpm dev
 - [Radix UI](https://www.radix-ui.com/) - UI components
 - [React Hook Form](https://react-hook-form.com/) - Form handling
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ## 👥 Authors
