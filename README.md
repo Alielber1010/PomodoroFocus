@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2f782060-70f2-4c48-b6b7-197a5090b761)
+
 # 🍅 Pomodoro Focus
 
 A modern, elegant Pomodoro timer application built with Next.js to help you boost productivity and maintain focus.
