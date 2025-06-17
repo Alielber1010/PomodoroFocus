@@ -55,9 +55,6 @@ pnpm dev
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Alielber1010/PomodoroFocus/issues).
 
 ## 👥 Authors
 
